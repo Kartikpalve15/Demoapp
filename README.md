@@ -1,2 +1,2 @@
-# Demoapp
-This is my project 
+# myDemoapp
+This is my project
